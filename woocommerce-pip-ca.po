@@ -1,0 +1,988 @@
+# Copyright (C) 2016 WooThemes / SkyVerge
+# This file is distributed under the GNU General Public License v3.0.
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Print Invoices/Packing Lists 3.1.3\n"
+"Report-Msgid-Bugs-To: https://support.woothemes.com/hc/\n"
+"POT-Creation-Date: 2016-08-01 12:05+0800\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2016-09-29 17:37+0200\n"
+"Language-Team: \n"
+"X-Generator: Poedit 1.8.9\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Last-Translator: \n"
+"Language: ca\n"
+
+#: includes/abstract-wc-pip-document.php:415
+#: includes/class-wc-pip-document-pick-list.php:154
+msgid "No shipping"
+msgstr "Sense despeses d'enviament"
+
+#: includes/abstract-wc-pip-document.php:466
+#: includes/admin/views/html-pip-template-preview.php:336
+msgid "Email:"
+msgstr "Email:"
+
+#: includes/abstract-wc-pip-document.php:474
+msgid "Phone:"
+msgstr "Telèfon:"
+
+#: includes/admin/class-wc-pip-admin.php:77
+msgid "Print Invoices/Packing Lists"
+msgstr "Imprimir factures/Llistes d'embalatge"
+
+#: includes/admin/class-wc-pip-admin.php:78
+msgid "Documents to print will open in a new window."
+msgstr "Documents per imprimir s'obrirà en una finestra nova."
+
+#: includes/admin/class-wc-pip-admin.php:79
+msgid ""
+"Are you sure you want to reset the invoice number counter? This action could "
+"result in duplicate invoice numbers or other unintended consequences."
+msgstr ""
+"Esteu segur que voleu restablir el comptador de número de factura? Aquesta "
+"acció podria ocasionar números de factura duplicats o altres conseqüències "
+"no desitjades."
+
+#: includes/admin/class-wc-pip-customizer.php:153
+msgid "Template Customizer"
+msgstr "Personalitzador de Plantilla"
+
+#: includes/admin/class-wc-pip-customizer.php:154
+msgid "Customize the template using a visual editor."
+msgstr "Personalitzar la plantilla utilitzant un editor visual."
+
+#: includes/admin/class-wc-pip-customizer.php:159
+msgid "Customize"
+msgstr "Personalitza"
+
+#: includes/admin/class-wc-pip-customizer.php:160
+msgid "Customize Template"
+msgstr "Personalitzar Plantilla"
+
+#: includes/admin/class-wc-pip-customizer.php:206
+msgid "Company Information"
+msgstr "Informació de l’empresa"
+
+#: includes/admin/class-wc-pip-customizer.php:213
+msgid "Typography"
+msgstr "Tipografia"
+
+#: includes/admin/class-wc-pip-customizer.php:220
+msgid "Colors"
+msgstr "Colors"
+
+#: includes/admin/class-wc-pip-customizer.php:227
+msgid "Content"
+msgstr "Contingut"
+
+#: includes/admin/class-wc-pip-customizer.php:234
+msgid "Advanced"
+msgstr "Avançat"
+
+#: includes/admin/class-wc-pip-customizer.php:418
+msgid "Shop Logo"
+msgstr "Logo de la botiga"
+
+#: includes/admin/class-wc-pip-customizer.php:419
+msgid "Upload a logo representing your shop or business."
+msgstr "Carregar un logotip que representa la seva botiga o negoci."
+
+#: includes/admin/class-wc-pip-customizer.php:431
+msgid "Logo Max Width"
+msgstr "Amplada màx. logotip"
+
+#: includes/admin/class-wc-pip-customizer.php:432
+msgid "The maximum width of the logo."
+msgstr "L'amplada màxima del logotip."
+
+#: includes/admin/class-wc-pip-customizer.php:443
+msgid "Shop Name"
+msgstr "Nom de la botiga"
+
+#: includes/admin/class-wc-pip-customizer.php:444
+msgid ""
+"Enter your shop or business name to be displayed when not using a logo. "
+"Leave blank to use the default site title."
+msgstr ""
+"Introduïu el vostre nom botiga o negoci que es mostrarà quan no utilitza un "
+"logotip. Deixar en blanc per utilitzar el títol de lloc per defecte."
+
+#: includes/admin/class-wc-pip-customizer.php:453
+msgid "Shop URL"
+msgstr "URL de botiga"
+
+#: includes/admin/class-wc-pip-customizer.php:454
+msgid ""
+"Enter the URL to be used in the template for your shop or business website "
+"URL. Leave blank to use the default site url."
+msgstr ""
+"Introduïu l'URL per ser utilitzat en la plantilla per a la seva botiga o "
+"negoci lloc web URL. Deixar en blanc per utilitzar la url del lloc per "
+"defecte."
+
+#: includes/admin/class-wc-pip-customizer.php:463
+msgid "Extra information"
+msgstr "Informació addicional"
+
+#: includes/admin/class-wc-pip-customizer.php:464
+msgid ""
+"Enter additional information or subheading to be displayed below the title "
+"or logo."
+msgstr ""
+"Introduïu informació addicional o subtítol que es mostra per sota el títol o "
+"logotip."
+
+#: includes/admin/class-wc-pip-customizer.php:473
+msgid "Shop name or logo alignment"
+msgstr "Alineació de nom o logo de botiga"
+
+#: includes/admin/class-wc-pip-customizer.php:474
+msgid "Set the alignment of the shop title or logo in template."
+msgstr "Definir l'alineació de la botiga títol o logotip en plantilla."
+
+#: includes/admin/class-wc-pip-customizer.php:481
+#: includes/admin/class-wc-pip-customizer.php:507
+msgid "Left"
+msgstr "Esquerra"
+
+#: includes/admin/class-wc-pip-customizer.php:482
+#: includes/admin/class-wc-pip-customizer.php:508
+msgid "Right"
+msgstr "Dreta"
+
+#: includes/admin/class-wc-pip-customizer.php:483
+#: includes/admin/class-wc-pip-customizer.php:509
+msgid "Center"
+msgstr "Centre"
+
+#: includes/admin/class-wc-pip-customizer.php:489
+msgid "Shop Address"
+msgstr "Adreça de la botiga"
+
+#: includes/admin/class-wc-pip-customizer.php:490
+msgid ""
+"Enter your shop or business address to be displayed next to the logo or shop "
+"name."
+msgstr ""
+"Introduïu la vostra adreça botiga o negoci que es mostrarà al costat del "
+"nom, logotip o botiga."
+
+#: includes/admin/class-wc-pip-customizer.php:499
+msgid "Shop Address alignment"
+msgstr "Alineació de l'adreça de la botiga"
+
+#: includes/admin/class-wc-pip-customizer.php:500
+msgid "Set the alignment of the shop address in template."
+msgstr "Definir l'alineació de l'adreça de botiga en plantilla."
+
+#: includes/admin/class-wc-pip-customizer.php:523
+msgid "Body font size"
+msgstr "Cos de lletra"
+
+#: includes/admin/class-wc-pip-customizer.php:524
+msgid "The template default body font size."
+msgstr "Cos de lletra per defecte de la plantilla."
+
+#: includes/admin/class-wc-pip-customizer.php:539
+msgid "Heading font size"
+msgstr "Cos de lletra de la capçalera"
+
+#: includes/admin/class-wc-pip-customizer.php:540
+msgid "The template default heading font size."
+msgstr "Cos de lletra per defecte de la plantilla."
+
+#: includes/admin/class-wc-pip-customizer.php:557
+msgid "Link Color"
+msgstr "Color d'enllaç"
+
+#: includes/admin/class-wc-pip-customizer.php:558
+msgid "Choose the default color of links in template."
+msgstr "Tria el color per defecte dels enllaços en plantilla."
+
+#: includes/admin/class-wc-pip-customizer.php:566
+msgid "Headings Color"
+msgstr "Color dels titulars"
+
+#: includes/admin/class-wc-pip-customizer.php:567
+msgid "Choose the default color for heading text."
+msgstr "Triar el color predeterminat per als titulars."
+
+#: includes/admin/class-wc-pip-customizer.php:575
+msgid "Table Head Background Color"
+msgstr "Color de fons de la capçalera de la taula"
+
+#: includes/admin/class-wc-pip-customizer.php:576
+msgid "Choose the default color for the table head background."
+msgstr "Tria el color de fons per defecte per la capçalera de la taula."
+
+#: includes/admin/class-wc-pip-customizer.php:584
+msgid "Table Head Color"
+msgstr "Color de la capçalera de la taula"
+
+#: includes/admin/class-wc-pip-customizer.php:585
+msgid "Choose the default color for the table head text."
+msgstr "Triar el color predeterminat per als titulars."
+
+#: includes/admin/class-wc-pip-customizer.php:597
+msgid "Header"
+msgstr "Capçalera"
+
+#: includes/admin/class-wc-pip-customizer.php:598
+msgid ""
+"Enter additional information to be displayed below the document's header."
+msgstr ""
+"Introduïu informació addicional que es mostra per sota de la capçalera del "
+"document."
+
+#: includes/admin/class-wc-pip-customizer.php:606
+msgid "Returns Policy, Terms and Conditions, etc."
+msgstr "Política de devolucions, termes i condicions, etc.."
+
+#: includes/admin/class-wc-pip-customizer.php:607
+msgid ""
+"Enter your shop's policies to be displayed at the bottom of the document."
+msgstr ""
+"Introduïu les polítiques de la botiga per ser mostrat a la part inferior del "
+"document."
+
+#: includes/admin/class-wc-pip-customizer.php:615
+msgid "Fine print"
+msgstr "Lletra petita"
+
+#: includes/admin/class-wc-pip-customizer.php:616
+msgid "Display the terms and conditions text in fine print."
+msgstr "Mostrar el text de termes i condicions en lletra petita."
+
+#: includes/admin/class-wc-pip-customizer.php:624
+msgid "Footer"
+msgstr "Peu de pàgina"
+
+#: includes/admin/class-wc-pip-customizer.php:625
+msgid "Enter additional information to be displayed at the document's footer."
+msgstr ""
+"Introduïu la informació dels drets d’autor. Es mostra al peu de pàgina."
+
+#: includes/admin/class-wc-pip-customizer.php:638
+msgid "Custom Styles"
+msgstr "Estils personalitzats"
+
+#: includes/admin/class-wc-pip-customizer.php:639
+msgid ""
+"For advanced users: you may enter additional CSS styles that will be used in "
+"the document template."
+msgstr ""
+"Per a usuaris avançats: podeu introduir estils CSS addicionals que "
+"s'utilitzarà a la plantilla de document."
+
+#: includes/admin/class-wc-pip-customizer.php:662
+msgid "Save and Preview Changes"
+msgstr "Desa i presenta els canvis"
+
+#. translators: Placeholders: %d - number of emails sent
+#: includes/admin/class-wc-pip-orders-admin.php:430
+msgid "Pick List email for %d order sent."
+msgid_plural "Pick List email for %d orders sent."
+msgstr[0] "Pick List %d email per la comanda enviada."
+msgstr[1] "Pick List %d emails per la comanda enviada."
+
+#. translators: Placeholders: %d - number of emails sent, %s - document name
+#: includes/admin/class-wc-pip-orders-admin.php:433
+msgid "%d %s email sent."
+msgid_plural "%d %s emails sent."
+msgstr[0] "%d email %s enviat."
+msgstr[1] "%d emails %s enviats."
+
+#. translators: Placeholder: %s - document name
+#: includes/admin/class-wc-pip-orders-admin.php:437
+msgid "No %s emails sent."
+msgstr "No s'ha enviat cap email %s."
+
+#. translators: Placeholder: %s - Document name
+#: includes/admin/class-wc-pip-orders-admin.php:461
+msgid ""
+"No %s created for printing. Please select valid orders or reload this page "
+"first."
+msgstr ""
+"No hi ha %s creada per imprimir. Si us plau, seleccioneu comandes vàlids o "
+"Recarregar aquesta pàgina primer."
+
+#: includes/admin/class-wc-pip-orders-admin.php:477
+msgid "Print now."
+msgstr "Imprimir ara."
+
+#. translators: Placeholders: %1$s - document name (pick list), %2$s - number
+#. of documents created, %3$s - link to print
+#: includes/admin/class-wc-pip-orders-admin.php:483
+msgid "%1$s for %2$s orders created. %3$s"
+msgstr "%1$s per a %2$s comandes creades. %3$s"
+
+#. translators: Placeholders: %1$s - number of documents created, %2$s -
+#. document name, %3$s - link to print
+#: includes/admin/class-wc-pip-orders-admin.php:486
+msgid "%1$s %2$s created. %3$s"
+msgstr "%1$s %2$s creat. %3$s"
+
+#. translators: Placeholders: %1$s - document name, %2$s - link to print
+#: includes/admin/class-wc-pip-orders-admin.php:491
+msgid "%1$s created. %2$s"
+msgstr "%1$s creat. %2$s"
+
+#: includes/admin/class-wc-pip-orders-admin.php:553
+msgid "Invoice number:"
+msgstr "Factura número:"
+
+#: includes/admin/class-wc-pip-orders-admin.php:583
+msgid "Print Invoice"
+msgstr "Imprimir Factura"
+
+#: includes/admin/class-wc-pip-orders-admin.php:584
+msgid "Send Email Invoice"
+msgstr "Enviar factura per email"
+
+#: includes/admin/class-wc-pip-orders-admin.php:585
+msgid "Print Packing List"
+msgstr "Imprimir llista d'embalatge"
+
+#: includes/admin/class-wc-pip-orders-admin.php:586
+msgid "Send Email Packing List"
+msgstr "Enviar per email la llista d'embalatge"
+
+#: includes/admin/class-wc-pip-orders-admin.php:615
+msgid "Print Pick List"
+msgstr "Imprimir llista de recollida"
+
+#: includes/admin/class-wc-pip-orders-admin.php:616
+msgid "Send Email Pick List"
+msgstr "Enviar per email la llista de recollida"
+
+#: includes/admin/class-wc-pip-orders-admin.php:642
+#: includes/admin/class-wc-pip-settings.php:65
+#: includes/class-wc-pip-document-invoice.php:49
+#: includes/emails/class-wc-pip-email-invoice.php:51 woocommerce-pip.php:504
+msgid "Invoice"
+msgstr "Factura"
+
+#: includes/admin/class-wc-pip-orders-admin.php:643
+#: includes/admin/class-wc-pip-settings.php:66
+#: includes/class-wc-pip-document-packing-list.php:53
+#: includes/emails/class-wc-pip-email-packing-list.php:51
+#: woocommerce-pip.php:505
+msgid "Packing List"
+msgstr "Llista d'embalatge"
+
+#. translators: Placeholder: %s - invoice number
+#: includes/admin/class-wc-pip-orders-admin.php:680
+#: includes/admin/views/html-pip-template-preview.php:98
+msgid "Invoice: %s"
+msgstr "Factura: %s"
+
+#: includes/admin/class-wc-pip-orders-admin.php:700
+msgid "Invoice/Packing List"
+msgstr "Factura/Llista d'embalatge"
+
+#: includes/admin/class-wc-pip-orders-admin.php:842
+msgid "Invoice not printed"
+msgstr "Factura no impresa"
+
+#: includes/admin/class-wc-pip-orders-admin.php:843
+msgid "Invoice printed"
+msgstr "Factura impresa"
+
+#: includes/admin/class-wc-pip-orders-admin.php:844
+msgid "Packing List not printed"
+msgstr "Llista d'embalatge no impresa"
+
+#: includes/admin/class-wc-pip-orders-admin.php:845
+msgid "Packing List printed"
+msgstr "Llista d'embalatge impresa"
+
+#: includes/admin/class-wc-pip-orders-admin.php:852
+msgid "Show all print statuses"
+msgstr "Mostrar tots els estats d'impressió"
+
+#: includes/admin/class-wc-pip-settings.php:46
+msgid "Invoices/Packing Lists"
+msgstr "Factures/Llistes d'embalatge"
+
+#: includes/admin/class-wc-pip-settings.php:64
+msgid "General"
+msgstr "General"
+
+#: includes/admin/class-wc-pip-settings.php:139
+msgid "Emails"
+msgstr "Correus electrònics"
+
+#. translators: Placeholders: %1$s - opening HTML <a> anchor tag, %2$s closing
+#. HTML </a> anchor tag
+#: includes/admin/class-wc-pip-settings.php:142
+msgid "You can configure Invoices/Packing Lists %1$semail settings here%2$s."
+msgstr ""
+"Vostè pot configurar els emails de factures/llistes d'embalatge %1$s aquí "
+"%2$s."
+
+#: includes/admin/class-wc-pip-settings.php:175
+msgid "Reset counter"
+msgstr "Restablir el comptador"
+
+#: includes/admin/class-wc-pip-settings.php:176
+msgid "Reset the starting invoice number."
+msgstr "Restableix el número de factura inicial."
+
+#: includes/admin/class-wc-pip-settings.php:177
+msgid "Tick this if you want to edit the invoice start number."
+msgstr "Seleccioni si vol editar el numero inicial de factura."
+
+#. translators: Placeholder: %s - merge tag
+#: includes/admin/class-wc-pip-settings.php:185
+msgid "%s Day of the month without leading zeros"
+msgstr "%s Dia del mes sense zeros al davant"
+
+#. translators: Placeholder: %s - merge tag
+#: includes/admin/class-wc-pip-settings.php:187
+msgid "%s Day of the month with leading zeros (2 digits)"
+msgstr "%s Dia del mes amb zeros al davant (2 dígits)"
+
+#. translators: Placeholder: %s - merge tag
+#: includes/admin/class-wc-pip-settings.php:189
+msgid "%s Month, without leading zeros"
+msgstr "%s Mes, sense zeros al davant"
+
+#. translators: Placeholder: %s - merge tag
+#: includes/admin/class-wc-pip-settings.php:191
+msgid "%s Month, with leading zeros (2 digits)"
+msgstr "%s Mes, amb zeros al davant (2 dígits)"
+
+#. translators: Placeholder: %s - merge tag
+#: includes/admin/class-wc-pip-settings.php:193
+msgid "%s Year (2 digits)"
+msgstr "%s Any (2 dígits)"
+
+#. translators: Placeholder: %s - merge tag
+#: includes/admin/class-wc-pip-settings.php:195
+msgid "%s Year (4 digits)"
+msgstr "%s Any (4 dígits)"
+
+#. translators: Placeholder: %s - merge tag
+#: includes/admin/class-wc-pip-settings.php:197
+msgid "%s 24-hour format of an hour without leading zeros"
+msgstr "%s Format 24 hores sense zeros al davant"
+
+#. translators: Placeholder: %s - merge tag
+#: includes/admin/class-wc-pip-settings.php:199
+msgid "%s 24-hour format of an hour with leading zeros (2 digits)"
+msgstr "%s Format 24 hores amb zeros al davant (2 dígits)"
+
+#. translators: Placeholder: %s - merge tag
+#: includes/admin/class-wc-pip-settings.php:201
+msgid "%s Minutes with leading zeros"
+msgstr "%s Minuts amb zeros al davant"
+
+#. translators: Placeholder: %s - merge tag
+#: includes/admin/class-wc-pip-settings.php:203
+msgid "%s Seconds with leading zeros"
+msgstr "%s Segons amb zeros al davant"
+
+#: includes/admin/class-wc-pip-settings.php:211
+msgid "Invoice Appearance"
+msgstr "Aparença de la factura"
+
+#: includes/admin/class-wc-pip-settings.php:218
+msgid "Show shipping method"
+msgstr "Mètode d'enviament"
+
+#: includes/admin/class-wc-pip-settings.php:219
+msgid "Enable if you want to display shipping method for the invoice order."
+msgstr ""
+"Habilitar si vol mostrar el mètode d'enviament per a la factura de la "
+"comanda."
+
+#: includes/admin/class-wc-pip-settings.php:227
+#: includes/admin/class-wc-pip-settings.php:360
+msgid "Show customer details"
+msgstr "Dades del client"
+
+#: includes/admin/class-wc-pip-settings.php:228
+#: includes/admin/class-wc-pip-settings.php:361
+msgid "Enable if you want to display customer details."
+msgstr "Habilitar si vol mostrar dades del client."
+
+#: includes/admin/class-wc-pip-settings.php:236
+#: includes/admin/class-wc-pip-settings.php:369
+msgid "Show customer note"
+msgstr "Nota al Client"
+
+#: includes/admin/class-wc-pip-settings.php:237
+#: includes/admin/class-wc-pip-settings.php:370
+msgid "Enable if you want to display the customer note."
+msgstr "Habilitar si vol mostrar la nota del client."
+
+#: includes/admin/class-wc-pip-settings.php:245
+msgid "Show coupons used in order"
+msgstr "Mostra els cupons utilitzats en la comanda"
+
+#: includes/admin/class-wc-pip-settings.php:246
+msgid "Enable if you want to display a list of coupons applied to the order."
+msgstr "Habilitar si vol mostrar els cupons aplicats a la comanda."
+
+#: includes/admin/class-wc-pip-settings.php:258
+msgid "Invoice Number Generation"
+msgstr "Generar número de factura"
+
+#: includes/admin/class-wc-pip-settings.php:265
+msgid "Use Order Number as Invoice Number"
+msgstr "Utilitzar el número de comanda com a número de factura"
+
+#: includes/admin/class-wc-pip-settings.php:266
+msgid ""
+"Enable this to use the order number as the invoice number. Disable to auto-"
+"generate the invoice number based on a starting number of your choice."
+msgstr ""
+"Habilitar si vol utilitzar el número de comanda com a número de factura. "
+"Desactivar auto-generar el número de factura basada en un número inicial de "
+"la seva elecció."
+
+#: includes/admin/class-wc-pip-settings.php:275
+msgid "Invoice Number Start"
+msgstr "Número inicial de factura"
+
+#: includes/admin/class-wc-pip-settings.php:276
+msgid "Set the starting invoice number."
+msgstr "Definir el número de factura inicial."
+
+#: includes/admin/class-wc-pip-settings.php:293
+msgid "Invoice Number Minimum Digits"
+msgstr "Mínim de dígits del número de factura"
+
+#: includes/admin/class-wc-pip-settings.php:294
+msgid ""
+"Adds leading zeros to the invoice number count to keep the number of "
+"characters in the invoice number consistent. Leave to 1 to ignore the "
+"setting."
+msgstr ""
+"Afegeix zeros al començament del número de factura per mantenir constant el "
+"nombre de caràcters en el nombre de factura. Deixar a 1 per ignorar la "
+"configuració."
+
+#: includes/admin/class-wc-pip-settings.php:307
+msgid "Invoice Number Prefix"
+msgstr "Prefix del número de factura"
+
+#: includes/admin/class-wc-pip-settings.php:308
+msgid "Set your custom invoice number prefix."
+msgstr "Definir el prefix personalitzat de número de factura."
+
+#. translators: Placeholder: %s - List of merge tags
+#: includes/admin/class-wc-pip-settings.php:310
+#: includes/admin/class-wc-pip-settings.php:320
+msgid "You may also use the following merge tags: %s"
+msgstr "També pot utilitzar les següents etiquetes: %s"
+
+#: includes/admin/class-wc-pip-settings.php:317
+msgid "Invoice Number Suffix"
+msgstr "Sufix del número de factura"
+
+#: includes/admin/class-wc-pip-settings.php:318
+msgid "Set your custom invoice number suffix."
+msgstr "Definir el sufix personalitzat de número de factura."
+
+#: includes/admin/class-wc-pip-settings.php:353
+msgid "Packing List Appearance"
+msgstr "Aparença de la Llista d'embalatge"
+
+#: includes/admin/class-wc-pip-settings.php:378
+msgid "Show terms and conditions"
+msgstr "Mostra els termes i condicions"
+
+#: includes/admin/class-wc-pip-settings.php:379
+msgid ""
+"Enable if you want to display terms and conditions or return policy on "
+"packing lists."
+msgstr ""
+"Habilitar si vol mostrar els termes i condicions o devolucions en llistes "
+"d'embalatge."
+
+#: includes/admin/class-wc-pip-settings.php:387
+msgid "Show footer"
+msgstr "Mostra el peu de pàgina"
+
+#: includes/admin/class-wc-pip-settings.php:388
+msgid "Enable if you want to display footer information on packing lists."
+msgstr ""
+"Habilitar si vol mostrar la informació de peu de pàgina en les llistes "
+"d'embalatge."
+
+#: includes/admin/class-wc-pip-settings.php:396
+msgid "Exclude Virtual Items"
+msgstr "Excloure objectes virtuals"
+
+#: includes/admin/class-wc-pip-settings.php:397
+msgid "Exclude virtual items from showing on packing lists."
+msgstr "Excloure objectes virtuals de ser mostrats en llistes d'embalatge."
+
+#. translators: Placeholder: %s - order date
+#. translators: Placeholder:  %s - order date
+#: includes/admin/views/html-pip-template-preview.php:101
+#: includes/class-wc-pip-document-invoice.php:117
+msgid "Order Date: %s"
+msgstr "Data de la comanda: %s"
+
+#: includes/admin/views/html-pip-template-preview.php:118
+#: templates/pip/content/order-table-before.php:122
+msgid "Billing Address"
+msgstr "Adreça de facturació"
+
+#: includes/admin/views/html-pip-template-preview.php:140
+#: templates/pip/content/order-table-before.php:145
+msgid "Shipping Address"
+msgstr "Adreça d’enviament"
+
+#: includes/admin/views/html-pip-template-preview.php:162
+#: templates/pip/content/order-table-before.php:168
+msgid "Shipping Method"
+msgstr "Mètode d'enviament"
+
+#: includes/admin/views/html-pip-template-preview.php:217
+msgid "Subtotal:"
+msgstr "Subtotal:"
+
+#: includes/admin/views/html-pip-template-preview.php:225
+msgid "Discount:"
+msgstr "Descompte:"
+
+#: includes/admin/views/html-pip-template-preview.php:233
+msgid "Shipping:"
+msgstr "Enviament:"
+
+#: includes/admin/views/html-pip-template-preview.php:236
+msgid "Free Shipping"
+msgstr "Enviament gratuït"
+
+#: includes/admin/views/html-pip-template-preview.php:241
+msgid "State Tax:"
+msgstr "Impostos:"
+
+#: includes/admin/views/html-pip-template-preview.php:249
+msgid "Payment Method:"
+msgstr "Mètode de pagament:"
+
+#: includes/admin/views/html-pip-template-preview.php:257
+msgid "Refund:"
+msgstr "Reemborsament"
+
+#: includes/admin/views/html-pip-template-preview.php:265
+msgid "Total:"
+msgstr "Total:"
+
+#: includes/admin/views/html-pip-template-preview.php:297
+msgid "Color:"
+msgstr "Color :"
+
+#: includes/admin/views/html-pip-template-preview.php:298
+msgid "Blue"
+msgstr "Blau"
+
+#: includes/admin/views/html-pip-template-preview.php:299
+msgid "Size:"
+msgstr "Mida:"
+
+#. translators: Placeholder: %1$s - opening <strong> tag, %2$s - coupons count
+#. (used in order), %3$s - closing </strong> tag - %4$s - coupons list
+#: includes/admin/views/html-pip-template-preview.php:327
+#: templates/pip/content/order-table-after.php:64
+msgid "%1$sCoupon used:%3$s %4$s"
+msgid_plural "%1$sCoupons used (%2$s):%3$s %4$s"
+msgstr[0] "%1$sCupó utilitzat:%3$s %4$s"
+msgstr[1] "%1$sCupons utilitzats (%2$s):%3$s %4$s"
+
+#: includes/admin/views/html-pip-template-preview.php:334
+msgid "Customer details"
+msgstr "Dades del client"
+
+#: includes/admin/views/html-pip-template-preview.php:337
+msgid "Telephone:"
+msgstr "Telèfon:"
+
+#: includes/class-wc-pip-document-invoice.php:50
+msgid "Invoices"
+msgstr "Factures"
+
+#: includes/class-wc-pip-document-invoice.php:53
+#: includes/class-wc-pip-document-packing-list.php:57
+#: includes/class-wc-pip-document-pick-list.php:53
+msgid "SKU"
+msgstr "Ref:"
+
+#: includes/class-wc-pip-document-invoice.php:54
+#: includes/class-wc-pip-document-packing-list.php:58
+#: includes/class-wc-pip-document-pick-list.php:54
+msgid "Product"
+msgstr "Producte"
+
+#: includes/class-wc-pip-document-invoice.php:55
+#: includes/class-wc-pip-document-packing-list.php:59
+#: includes/class-wc-pip-document-pick-list.php:56
+msgid "Quantity"
+msgstr "Quantitat"
+
+#: includes/class-wc-pip-document-invoice.php:56
+msgid "Price"
+msgstr "Preu"
+
+#. translators: Placeholders:  %1$s - invoice number, %2$s - order number
+#: includes/class-wc-pip-document-invoice.php:110
+msgid "Invoice %1$s for order %2$s"
+msgstr "Factura %1$s de la comanda %2$s"
+
+#. translators: Placeholder: %s - order number
+#: includes/class-wc-pip-document-invoice.php:113
+msgid "Invoice for order %s"
+msgstr "Factura de la comanda %s"
+
+#. translators: Placeholder: %s - invoice plain url
+#: includes/class-wc-pip-document-invoice.php:255
+msgid "View your invoice: %s"
+msgstr "Veure la seva factura: %s"
+
+#: includes/class-wc-pip-document-invoice.php:257
+msgid "View your invoice."
+msgstr "Veure la seva factura."
+
+#: includes/class-wc-pip-document-packing-list.php:54
+msgid "Packing Lists"
+msgstr "Llistes d'embalatge"
+
+#: includes/class-wc-pip-document-packing-list.php:60
+msgid "Total Weight"
+msgstr "Pes total"
+
+#. translators: Placeholders: %1$s - invoice number, %2$s - order number
+#: includes/class-wc-pip-document-packing-list.php:194
+msgid "Packing List for invoice %1$s (order %2$s)"
+msgstr "Llista d'embalatge per factura %1$s (comanda %2$s)"
+
+#. translators: Placeholder: %s urder number
+#: includes/class-wc-pip-document-packing-list.php:197
+msgid "Packing List for order %s"
+msgstr "Llista d'embalatge per la comanda %s"
+
+#: includes/class-wc-pip-document-packing-list.php:263
+msgid "Uncategorized"
+msgstr "General"
+
+#: includes/class-wc-pip-document-packing-list.php:427
+msgid "This order does not contain shippable items."
+msgstr "Aquesta comanda no conté elements a la venda."
+
+#: includes/class-wc-pip-document-packing-list.php:552
+msgid "Totals:"
+msgstr "Totals:"
+
+#. translators: Placeholder: %d - total amount of items in packing list
+#: includes/class-wc-pip-document-packing-list.php:554
+msgid "%d pc."
+msgid_plural "%d pcs."
+msgstr[0] "%d article"
+msgstr[1] "%d articles"
+
+#: includes/class-wc-pip-document-pick-list.php:49
+#: includes/emails/class-wc-pip-email-pick-list.php:51 woocommerce-pip.php:506
+msgid "Pick List"
+msgstr "Llista de recollida"
+
+#: includes/class-wc-pip-document-pick-list.php:50
+msgid "Pick Lists"
+msgstr "Llistes de recollida"
+
+#: includes/class-wc-pip-document-pick-list.php:55
+msgid "Details"
+msgstr "Llegir més"
+
+#. translators: Placeholder: %s - weight measurement unit
+#: includes/class-wc-pip-document-pick-list.php:58
+msgid "Total Weight (%s)"
+msgstr "Pes total (%s)"
+
+#. translators: Placeholders: %1$s - order number, %2$s - invoice number
+#: includes/class-wc-pip-document-pick-list.php:149
+msgid "Order %1$s - Invoice %2$s"
+msgstr "Comanda %1$s - Factura %2$s"
+
+#: includes/emails/class-wc-pip-email-invoice.php:52
+msgid ""
+"If enabled, invoice emails are sent when an order is paid and the order "
+"status is processing or completed."
+msgstr ""
+"Si està activat, les factures per correu electrònic s'envien quan es paga "
+"una comanda i l'estat de la comanda és processada o completada."
+
+#. translators: Placeholders: %1$s - merge tag for the shop name, %2$s merge
+#. tag for generated invoice number, %3$s merge tag for order number, %4$s
+#. merge tag for date of the order
+#: includes/emails/class-wc-pip-email-invoice.php:54
+msgid "[%1$s] Invoice %2$s for order %3$s from %4$s"
+msgstr "[%1$s] Factura %2$s per la comanda %3$s de %4$s"
+
+#: includes/emails/class-wc-pip-email-invoice.php:135
+#: includes/emails/class-wc-pip-email-packing-list.php:138
+msgid "Enable/Disable"
+msgstr "Habilitar/Deshabilitar"
+
+#: includes/emails/class-wc-pip-email-invoice.php:137
+#: includes/emails/class-wc-pip-email-packing-list.php:140
+msgid "Enable this email notification"
+msgstr "Activa aquesta notificació per correu electrònic"
+
+#: includes/emails/class-wc-pip-email-invoice.php:142
+#: includes/emails/class-wc-pip-email-packing-list.php:153
+#: includes/emails/class-wc-pip-email-pick-list.php:151
+msgid "Subject"
+msgstr "Assumpte"
+
+#. translators: Placeholder: %s - Default email subject
+#: includes/emails/class-wc-pip-email-invoice.php:145
+#: includes/emails/class-wc-pip-email-packing-list.php:156
+#: includes/emails/class-wc-pip-email-pick-list.php:154
+msgid "Defaults to <code>%s</code>"
+msgstr "El valor per defecte és <code>%s</code>"
+
+#: includes/emails/class-wc-pip-email-packing-list.php:52
+msgid ""
+"If enabled, packing list emails are sent to designated recipients when an "
+"order needs to be processed."
+msgstr ""
+"Si està activat, les llistes d'embalatge per correu electrònic són enviades "
+"quan una comanda ha de ser processada."
+
+#. translators: Placeholders: %1$s - merge tag for the shop name, %2$s merge
+#. tag for generated invoice number, %3$s merge tag for order number, %4$s
+#. merge tag for date of the order
+#: includes/emails/class-wc-pip-email-packing-list.php:54
+msgid "[%1$s] Packing List for invoice %2$s - order %3$s from %4$s"
+msgstr "[%1$s] Llista d'empaquetatge de la factura %2$s - comanda %3$s de %4$s"
+
+#: includes/emails/class-wc-pip-email-packing-list.php:145
+#: includes/emails/class-wc-pip-email-pick-list.php:143
+msgid "Recipient(s)"
+msgstr "Destinatari(s)"
+
+#: includes/emails/class-wc-pip-email-packing-list.php:147
+#: includes/emails/class-wc-pip-email-pick-list.php:145
+msgid ""
+"Enter recipients (comma separated) for this email. Defaults to admin email: "
+"<code>%s</code>."
+msgstr ""
+"Introduïu destinataris (separats per coma) per aquest correu electrònic. Per "
+"defecte són <code>%s</code> ."
+
+#: includes/emails/class-wc-pip-email-pick-list.php:52
+msgid ""
+"Pick list emails can be manually sent via order bulk action to the "
+"designated recipients."
+msgstr ""
+"Els emails de llistes de recollida es poden enviar manualment mitjançant una "
+"acció massiva als destinataris designats."
+
+#. translators: Placeholders: %1$s - merge tag for the shop name, %2$s merge
+#. tag number of orders included in the document
+#: includes/emails/class-wc-pip-email-pick-list.php:54
+msgid "[%1$s] Pick List for %2$s"
+msgstr "[%1$s] Llista de recollida per %2$s"
+
+#. translators: Placeholder: %d orders count
+#: includes/emails/class-wc-pip-email-pick-list.php:183
+msgid "%d order"
+msgid_plural "%d orders"
+msgstr[0] "%d ordine"
+msgstr[1] "%d ordini"
+
+#: includes/frontend/class-wc-pip-frontend.php:110
+msgid "View invoice"
+msgstr "Veure factura"
+
+#: includes/frontend/class-wc-pip-frontend.php:143
+msgid "View Invoice"
+msgstr "Veure factura"
+
+#: includes/wc-pip-template-functions.php:118
+msgid "Print"
+msgstr "Imprimir"
+
+#: templates/pip/content/order-table-after.php:77
+msgid "Customer Details"
+msgstr "Dades del client"
+
+#. translators: Placeholder: %d - orders count (one or many)
+#: templates/pip/content/order-table-before.php:107
+msgid "List of items needed to process %d order."
+msgid_plural "List of items needed to process %d orders."
+msgstr[0] "Lista di articoli necessari per completare %d ordine."
+msgstr[1] "Lista di articoli necessari per completare %d ordini."
+
+#. translators: Placeholders: %1$s - date, %2$s time
+#: templates/pip/content/order-table-before.php:110
+msgid "Printed on: %1$s at %2$s"
+msgstr "Imprès el dia %1$s a les %2$s"
+
+#. Plugin Name of the plugin/theme
+msgid "WooCommerce Print Invoices/Packing Lists"
+msgstr "WooCommerce Print Invoices/Packing Lists"
+
+#. translators: Placeholders: %1$s - this plugin name, %2$s - opening HTML <a>
+#. anchor tag, %3$s - closing HTML </a> tag
+#: woocommerce-pip.php:338
+msgid ""
+"Hi there! It looks like you have upgraded %1$s from an older version. We "
+"have added lots of new features, please %2$scheck out the documentation%3$s "
+"for an overview and some helpful upgrading tips!"
+msgstr ""
+"Hola! Sembla que ha actualitzat %1$s d'una versió més antiga. Hem afegit "
+"moltes coses noves, si us plau %2$s mira la documentació %3$s per a una "
+"visió general i alguns consells útils!"
+
+#. translators: Placeholders: %1$s - the plugin name, %2$s - opening HTML <a>
+#. anchor tag, %3$s closing HTML </a> tag
+#: woocommerce-pip.php:346
+msgid ""
+"Thanks for installing %1$s! To get started, take a minute to %2$sread the "
+"documentation%3$s :)"
+msgstr ""
+"Gràcies per instal·lar %1$s! Per començar, dediqueu un minut a %2$s llegir "
+"la documentació %3$s :)"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.woothemes.com/products/print-invoices-packing-lists/"
+msgstr "http://www.woothemes.com/products/print-invoices-packing-lists/"
+
+#. Description of the plugin/theme
+msgid ""
+"Customize and print invoices and packing lists for WooCommerce orders from "
+"the WordPress admin"
+msgstr ""
+"Personalitza i imprimeix factures i llistes d'embalatge per a comandes de "
+"WooCommerce des de l'administració de WordPress "
+
+#. Author of the plugin/theme
+msgid "WooThemes / SkyVerge"
+msgstr "WooThemes / SkyVerge"
+
+#. Author URI of the plugin/theme
+msgid "http://www.woothemes.com"
+msgstr "http://woothemes.com"
+
+#: includes/admin/views/html-pip-template-preview.php:44
+msgctxt "Facsimile label. Try to keep this below 16 characters length."
+msgid "Sample Invoice"
+msgstr "Exemple de factura"
+
+#: includes/admin/views/html-pip-template-preview.php:300
+msgctxt "Sample Variation Medium Size"
+msgid "M"
+msgstr "M"
+
+#: includes/admin/views/html-pip-template-preview.php:348
+msgctxt "Customer note sample for the live template preview."
+msgid "Please include a printed copy of your catalog, thank you."
+msgstr "Si us plau inclogui una còpia impresa del seu catàleg, gràcies."
